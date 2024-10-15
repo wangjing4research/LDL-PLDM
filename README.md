@@ -10,5 +10,5 @@ Please kindly consider citing our paper:
 	author={Wang, Jing and Lv, Jianhui and Geng, Xin}, \
 	year = {2023},\
 	pages={1--11}, \
-  doi={10.1109/TNNLS.2023.3341807},
+        doi={10.1109/TNNLS.2023.3341807}, \
 >}
