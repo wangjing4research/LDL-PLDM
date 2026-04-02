@@ -45,7 +45,7 @@ def run_LDLPLDM(dataset):
         
 if __name__ == "__main__":
 
-    run_LDLPLDM("SJAFFE")
+    run_LDLPLDM("Scene")
         
 
     
